@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
 
+#fgh
 def summarize_csv(file_path):
     """
     Comprehensively analyzes a CSV file and generates multiple visualizations.
