@@ -66,7 +66,7 @@ python ../analyze.py sample.csv
 
 The analysis will provide:
 
-1. **Dataset dimensions** - Row and column counts
+1. **Dataset dimensions** - Row and column count
 2. **Column information** - Names and data types
 3. **Summary statistics** - Mean, median, std dev, min/max for numeric columns
 4. **Data quality** - Missing value detection and counts
